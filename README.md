@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Some minor cool projects to gain experience.
 - 📫 How to reach me ... DMs.
 
+  Please feel free to take a look at my <a href="https://fedavid.github.io/Blog/" target="_blank">blog</a> I've made for University.
+
 <!---
 FEDavid/FEDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
