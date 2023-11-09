@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://fedavid.github.io/Blog/](https://fedavid.github.io/Blog/)
 
-- 📫 How to reach me **DMs!**
+- 📫 How to reach me **Find my contact details and other socials on my [Linktr.ee](https://linktr.ee/dmould)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
