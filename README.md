@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm David!</h1>
 <h3 align="center">A Web and Mobile development student from Scotland!</h3>
 
-- 🔭 I’m currently working on [University projects!](https://fedavid.github.io/Blog/)
-
+- 🔭 I’m currently working on [my portfolio!](https://portfolio.david-mould.dev/)
 - 🌱 I’m currently learning **a bit of everything!**
-
-- 📝 I regularly write articles on [https://fedavid.github.io/Blog/](https://fedavid.github.io/Blog/)
-
+- 📝 I regularly write articles on [https://portfolio.david-mould.dev/blog](https://portfolio.david-mould.dev/blog)
 - 📫 How to reach me **Find my contact details and other socials on my [Linktr.ee](https://linktr.ee/dmould)!**
 
 <h3 align="left">Connect with me:</h3>
